@@ -79,11 +79,11 @@ body {
 
 @media (max-width: 768px){
     img {
-        width: 500px;
+        width: 300px;
         justify-content: center;
     }
     .y {
-        width: 525px;
+        width: 300px;
     }
 }
 
