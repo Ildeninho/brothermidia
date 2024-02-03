@@ -78,10 +78,10 @@ body {
 
 @media (max-width: 768px){
     img {
-        width: 200px;
+        width: 500px;
     }
     .y {
-        width: 200px;
+        width: 500px;
     }
 }
 
